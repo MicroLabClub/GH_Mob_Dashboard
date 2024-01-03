@@ -3,7 +3,10 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-![Text alternativ pentru imagine](https://i.imgur.com/u6uHcKH.mp4)
+<video width="100%" height="auto" controls>
+  <source src="https://i.imgur.com/u6uHcKH.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Step 1: Start the Metro Server
 
